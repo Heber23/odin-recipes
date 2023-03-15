@@ -1,1 +1,2 @@
 # odin-recipes
+This is a my first big project on what i learn from my html and git/github lesson. ill be creating a lagana recipe page with step by step on how to make the perfect lasagna: please remember that this is a practice recipe page i wouldnt recomend you to use the recipe :).
